@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/jkayaian/JKTestProj/_apis/build/status/JKTestProj-CI%20(1))](https://dev.azure.com/jkayaian/JKTestProj/_build/latest?definitionId=3)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
