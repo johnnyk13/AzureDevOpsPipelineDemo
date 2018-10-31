@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/jkayaian/JKTestProj/_apis/build/status/JKTestProj-CI%20(1))](https://dev.azure.com/jkayaian/JKTestProj/_build/latest?definitionId=3)
+
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
@@ -6,7 +6,7 @@ For information on how to use this repository, see [.NET Core](https://docs.micr
 
 | Example | Build status |
 |---------|--------------|
-| Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
+| Build | [![Build Status](https://dev.azure.com/jkayaian/JKTestProj/_apis/build/status/JKTestProj-CI%20(1))](https://dev.azure.com/jkayaian/JKTestProj/_build/latest?definitionId=3) |
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=2) |
 | Build image and push to Docker Hub | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=3) |
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=4) |
